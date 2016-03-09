@@ -1,0 +1,17 @@
+{
+    "name": "qmlobjects.liu-xiao-guo",
+    "description": "description of qmlobjects",
+    "architecture": "all",
+    "title": "qmlobjects",
+    "hooks": {
+        "qmlobjects": {
+            "apparmor": "qmlobjects.apparmor",
+            "desktop":  "qmlobjects.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
